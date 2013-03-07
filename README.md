@@ -1,4 +1,1 @@
-lilogee.github.com
-==================
-
-Github page
+This is my attempt at coding.
